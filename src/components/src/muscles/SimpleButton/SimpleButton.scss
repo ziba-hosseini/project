@@ -1,0 +1,23 @@
+.simple_butoon {
+  display: flex;
+  flex-direction: row;
+  width: 88px;
+  height: 36px;
+  background: #ffffff;
+  border-radius: 5px;
+  border: 1px solid #f49342;
+  font-family: Yekan_Bakh;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 30px;
+  color: #f49342;
+  justify-content: center;
+  align-items: center;
+  &:hover,
+  &:active {
+    color: #ffffff;
+    background: #f49342;
+    border: 1px solid #ffff;
+  }
+}

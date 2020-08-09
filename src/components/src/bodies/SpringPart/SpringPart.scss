@@ -1,0 +1,48 @@
+$secondary: #5c6ac4;
+$color_hover: #1a73e8;
+
+.spring_part {
+  flex-direction: row;
+  flex: 1;
+
+  .menu_top {
+    background: #fff;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+  }
+  .breadCrumb {
+    position: relative;
+    background: #ffffff;
+    height: 8vh;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2), 0px 3px 4px rgba(0, 0, 0, 0.12),
+      0px 2px 4px rgba(0, 0, 0, 0.14);
+    display: flex;
+    justify-content: center;
+  }
+  .inside_customer_tooltip {
+    background-color: $secondary;
+    color: #fff;
+    flex-direction: row;
+    width: 45%;
+    margin: 1px;
+    border-radius: 2px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 27px;
+    margin: 4px;
+  }
+  .access_data,
+  .product_data {
+    cursor: pointer;
+  }
+}
+.table_header {
+  margin: 10px 0;
+  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  width: calc(100% / 10);
+  justify-content: center;
+}

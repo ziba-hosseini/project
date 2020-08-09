@@ -1,0 +1,48 @@
+.svg_style {
+  position: relative;
+  width: 270px;
+  svg {
+    position: absolute;
+    left: 0px;
+  }
+  .search_style {
+    border-bottom: 1px solid #dadce6;
+    border-width: 0 0 1px 0;
+    position: relative;
+    width: 250px;
+    height: 30px;
+    right: 20px;
+    background-color: unset;
+    background-repeat: no-repeat;
+    background-size: 17px;
+    background-position: 0 10px;
+    &:focus {
+      outline: unset;
+    }
+  }
+}
+
+input.search_style::-webkit-input-placeholder {
+  font-family: Yekan_Bakh;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 30px;
+  text-align: right;
+}
+input.search_style:-ms-input-placeholder {
+  font-family: Yekan_Bakh;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 30px;
+  text-align: right;
+}
+input.search_style:-moz-placeholder {
+  font-family: Yekan_Bakh;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 30px;
+  text-align: right;
+}

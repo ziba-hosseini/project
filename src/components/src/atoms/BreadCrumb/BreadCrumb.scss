@@ -1,0 +1,33 @@
+.bread_crumb {
+  display: flex;
+  direction: rtl;
+  justify-content: flex-start;
+  padding: 0 1em;
+  align-items: center;
+  background: #ffffff;
+  height: 8vh;
+  /* 2dp — Elevation */
+
+  box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2), 0px 3px 4px rgba(0, 0, 0, 0.12),
+    0px 2px 4px rgba(0, 0, 0, 0.14);
+  .active {
+    font-family: Yekan_Bakh;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.15px;
+    color: #f49342;
+  }
+  .underline {
+    font-family: Yekan_Bakh;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 30px;
+    letter-spacing: 0.15px;
+    color: #868686;
+    padding: 0.5em;
+    text-decoration: none;
+  }
+}

@@ -1,0 +1,51 @@
+export interface InitialType{
+    price:Price,
+}
+//type state price
+export interface Price{
+    loading:boolean,
+    data:Item[],
+    loaded:boolean,
+    error:string
+}
+//type items state
+export interface Item{
+   id:number,
+   name: string,
+   validate:string,
+   currency:string,
+   access:AccessType[],
+   profile:string,
+   customer_class: string[],
+   product: ProductType[],
+   detail: string
+}
+
+
+
+//access type
+export interface AccessType{ 
+    choose:boolean,
+    icon:boolean,
+    name:string,
+    edit:boolean,
+    read:boolean,
+    admin:boolean
+    }
+//product type
+export interface ProductType{
+    id:number,
+    code:number,
+    name:string,
+    price:number
+      
+}
+
+
+//type modal
+
+export interface TypeModal{
+    isOpenAccess:boolean;
+    isOpenProduct:boolean
+}
+

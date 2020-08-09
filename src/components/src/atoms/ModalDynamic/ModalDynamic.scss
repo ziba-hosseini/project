@@ -1,0 +1,32 @@
+.modal {
+  position: fixed;
+  width: 70%;
+  height: 100vh;
+  top: 0;
+  right: 0px;
+  background: #e5e5e5;
+  transform: translateX(100%);
+  -webkit-transform: translateX(100%);
+  animation: anim 0.5s forwards;
+  -webkit-animation: anim 0.5s forwards;
+}
+
+@keyframes anim {
+  0% {
+    transform: translateX(100%);
+  }
+
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+@-webkit-keyframes anim {
+  0% {
+    transform: translateX(100%);
+  }
+
+  100% {
+    transform: translateX(0%);
+  }
+}

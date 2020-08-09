@@ -1,0 +1,47 @@
+.setting_access {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 100%;
+  div {
+    margin: 0px 10px;
+  }
+}
+
+.header_checkbox {
+  margin: 0 -5px 0 2em;
+}
+.table_access_header {
+  
+  text-align: center;
+  display: inline-flex;
+  align-items: center;
+  width: calc(20%);
+  justify-content: right;
+  color: #868686;
+  margin: 0 1em;
+}
+.checkbox {
+  flex: 0;
+  position: absolute;
+}
+
+.row_style {
+  display: inline-flex;
+  width: 100%;
+  direction: rtl;
+  padding: .4em 0;
+}
+
+.default_items {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 0.5em;
+  flex: 1 1;
+}
+.checkbox {
+  flex: 0 1;
+  position: absolute;
+  margin: 0.3em;
+}

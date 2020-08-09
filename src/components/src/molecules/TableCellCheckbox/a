@@ -1,0 +1,21 @@
+import React from "react";
+
+import { Checkbox } from "../../atoms";
+interface props<TEntity> {
+  onClick?(): void;
+  children?: React.ReactNode;
+  width?: string;
+  getData: ()=>void;
+}
+
+const TableCellCheckbox = <TEntity,>(props: props<TEntity>) => {
+  console.log(props, "cell");
+
+  return (
+    <div>
+      <Checkbox getData={()=>props.getData()} />
+    </div>
+  );
+};
+
+export { TableCellCheckbox };

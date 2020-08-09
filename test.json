@@ -1,0 +1,702 @@
+{
+  "price": [
+    {
+      "id": "0",
+      "name": "قیمت بهاره",
+      "validate": "۹۹/۶/۳ - ۱/۱/۱۴۰۰",
+      "currency": "ریال",
+      "access": [
+        {
+          "id":1,
+          "name": "reza.khademi0",
+          "access_rate": "view"
+        },
+        {
+          "id":2,
+          "name": "ali.khademi0",
+          "access_rate": "admin"
+        },
+        {
+          "id":3,
+          "name": "m.khademi0",
+          "access_rate": "edit"
+        }
+      ],
+      "profile": "مشتری",
+      "customer_class": [
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" }
+      ],
+      "product": [
+        {
+          "id": "0",
+          "code": "101",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "1",
+          "code": "102",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "2",
+          "code": "103",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "3",
+          "code": "104",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "4",
+          "code": "105",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "5",
+          "code": "106",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "6",
+          "code": "107",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "7",
+          "code": "108",
+          "name": "نام محصول",
+          "price": 23000
+        }
+      ],
+      "detail": "جزییات"
+    },
+    {
+      "id": "1",
+      "name": "قیمت تابستانه",
+      "validate": "۹۹/۶/۳ - ۱/۱/۱۴۰۰",
+      "currency": "ریال",
+      "access": [
+        {
+          "id":1,
+          "name": "reza.khademi0",
+          "access_rate": "view"
+        },
+        {
+          "id":2,
+          "name": "ali.khademi0",
+          "access_rate": "view"
+        },
+        {
+          "id":3,
+          "name": "m.khademi0",
+          "access_rate": "view"
+        }
+      ],
+      "profile": "مشتری",
+      "customer_class": [
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" }
+      ],
+      "product": [
+        {
+          "id": "0",
+          "code": "1081",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "1",
+          "code": "1082",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "2",
+          "code": "1083",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "3",
+
+          "code": "1084",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "4",
+
+          "code": "1085",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "5",
+
+          "code": "1086",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "6",
+
+          "code": "1087",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "7",
+
+          "code": "1088",
+          "name": "نام محصول",
+          "price": 23000
+        }
+      ],
+      "detail": "جزییات"
+    },
+    {
+      "id": "2",
+      "name": "قیمت پاییزه",
+      "validate": "۹۹/۶/۳ - ۱/۱/۱۴۰۰",
+      "currency": "ریال",
+      "access": [
+        {
+          "id":1,
+          "name": "m.khademi0",
+          "access_rate": "view"
+        },
+        {
+          "id":2,
+          "name": "m.khademi0",
+          "access_rate": "view"
+        },
+        {
+          "id":3,
+          "name": "m.khademi0",
+          "access_rate": "view"
+        }
+      ],
+      "profile": "مشتری",
+      "customer_class": [
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" }
+      ],
+      "product": [
+        {
+          "id": "0",
+
+          "code": "1081",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "1",
+
+          "code": "1082",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "2",
+
+          "code": "1083",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "3",
+
+          "code": "1084",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "4",
+
+          "code": "1085",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "5",
+
+          "code": "1086",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "6",
+
+          "code": "1087",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "7",
+
+          "code": "1088",
+          "name": "نام محصول",
+          "price": 23000
+        }
+      ],
+      "detail": "جزییات"
+    },
+    {
+      "id": "3",
+      "name": "قیمت بهاره",
+      "validate": "۹۹/۶/۳ - ۱/۱/۱۴۰۰",
+      "currency": "ریال",
+      "access": [
+        {
+          "id":1,
+          "name": "reza.khademi0",
+          "access_rate": "view"
+        },
+        {
+          "id":2,
+          "name": "amir.khademi0",
+          "access_rate": "view"
+        },
+        {
+          "id":3,
+          "name": "m.khademi0",
+          "access_rate": "view"
+        }
+      ],
+      "profile": "مشتری",
+      "customer_class": [
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" }
+      ],
+      "product": [
+        {
+          "id": "0",
+
+          "code": "1081",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "1",
+
+          "code": "1082",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "2",
+
+          "code": "1083",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "3",
+
+          "code": "1084",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "4",
+
+          "code": "1085",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "5",
+
+          "code": "1086",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "6",
+
+          "code": "1087",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "7",
+
+          "code": "1088",
+          "name": "نام محصول",
+          "price": 23000
+        }
+      ],
+      "detail": "جزییات"
+    },
+    {
+      "id": "4",
+      "name": "قیمت بهاره",
+      "validate": "۹۹/۶/۳ - ۱/۱/۱۴۰۰",
+      "currency": "ریال",
+      "access": [
+        {
+          "id":1,
+          "name": "m.khademi0",
+          "access_rate": "view"
+        },
+        {
+          "id":2,
+          "name": "m.khademi0",
+          "access_rate": "view"
+        },
+        {
+          "id":3,
+          "name": "m.khademi0",
+          "access_rate": "view"
+        }
+      ],
+      "profile": "مشتری",
+      "customer_class": [
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" }
+      ],
+      "product": [
+        {
+          "id": "0",
+
+          "code": "1081",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "1",
+
+          "code": "1082",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "2",
+
+          "code": "1083",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "3",
+
+          "code": "1084",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "4",
+
+          "code": "1085",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "5",
+
+          "code": "1086",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "6",
+
+          "code": "1087",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "7",
+
+          "code": "1088",
+          "name": "نام محصول",
+          "price": 23000
+        }
+      ],
+      "detail": "جزییات"
+    },
+    {
+      "id": "5",
+      "name": "قیمت بهاره",
+      "validate": "۹۹/۶/۳ - ۱/۱/۱۴۰۰",
+      "currency": "ریال",
+      "access": [
+        {
+          "id":1,
+          "name": "m.khademi0",
+          "access_rate": "view"
+        },
+        {
+          "id":2,
+          "name": "m.khademi0",
+          "access_rate": "view"
+        },
+        {
+          "id":3,
+          "name": "m.khademi0",
+          "access_rate": "view"
+        }
+      ],
+      "profile": "مشتری",
+      "customer_class": [
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" }
+      ],
+      "product": [
+        {
+          "id": "0",
+
+          "code": "1081",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "1",
+
+          "code": "1082",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "2",
+
+          "code": "1083",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "3",
+
+          "code": "1084",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "4",
+
+          "code": "1085",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "5",
+
+          "code": "1086",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "6",
+
+          "code": "1087",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "7",
+
+          "code": "1088",
+          "name": "نام محصول",
+          "price": 23000
+        }
+      ],
+      "detail": "جزییات"
+    },
+    {
+      "id": "6",
+      "name": "قیمت بهاره",
+      "validate": "۹۹/۶/۳ - ۱/۱/۱۴۰۰",
+      "currency": "ریال",
+      "access": [
+        {
+          "id":1,
+          "name": "m.khademi0",
+          "access_rate": "view"
+        },
+        {
+          "id":2,
+          "name": "m.khademi0",
+          "access_rate": "view"
+        },
+        {
+          "id":3,
+          "name": "m.khademi0",
+          "access_rate": "view"
+        }
+      ],
+      "profile": "مشتری",
+      "customer_class": [
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" }
+      ],
+      "product": [
+        {
+          "id": "0",
+
+          "code": "1081",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "1",
+
+          "code": "1082",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "2",
+
+          "code": "1083",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "3",
+
+          "code": "1084",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "4",
+
+          "code": "1085",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "5",
+
+          "code": "1086",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "6",
+
+          "code": "1087",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "7",
+
+          "code": "1088",
+          "name": "نام محصول",
+          "price": 23000
+        }
+      ],
+      "detail": "جزییات"
+    },
+    {
+      "id": "7",
+      "name": "قیمت بهاره",
+      "validate": "۹۹/۶/۳ - ۱/۱/۱۴۰۰",
+      "currency": "ریال",
+      "access": [
+        {
+          "id":1,
+          "name": "reza.khademi0",
+          "access_rate": "view"
+        },
+        {
+          "id":2,
+          "name": "ali.khademi0",
+          "access_rate": "admin"
+        },
+        {
+          "id":3,
+          "name": "m.khademi0",
+          "access_rate": "edit"
+        }
+      ],
+      "profile": "مشتری",
+      "customer_class": [
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" },
+        { "role": "مشتری طلایی" }
+      ],
+      "product": [
+        {
+          "id": "0",
+
+          "code": "1081",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "1",
+          "code": "1082",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "2",
+
+          "code": "1083",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "3",
+
+          "code": "1084",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "4",
+          "code": "1085",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "5",
+
+          "code": "1086",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "6",
+
+          "code": "1087",
+          "name": "نام محصول",
+          "price": 23000
+        },
+        {
+          "id": "7",
+          "code": "1088",
+          "name": "نام محصول",
+          "price": 23000
+        }
+      ],
+      "detail": "جزییات"
+    }
+  ]
+}
